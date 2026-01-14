@@ -12,7 +12,7 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section">
             <h4>About Us</h4>
-            <p>Luxury interior design studio creating timeless spaces that reflect your lifestyle and values.</p>
+            <p>Luxury design studio creating timeless spaces that reflect your lifestyle and values.</p>
           </div>
 
           <div className="footer-section">
@@ -44,7 +44,7 @@ function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} Luxury Interior Design Studio. All rights reserved.</p>
+          <p>&copy; {currentYear} Luxury Design Studio. All rights reserved.</p>
           <div className="footer-links">
             <Link to="/privacy">Privacy Policy</Link>
             <span>•</span>

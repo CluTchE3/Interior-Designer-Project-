@@ -26,7 +26,7 @@ function Header() {
       <div className="container header-container">
         <div className="logo">
           <Link to="/">
-            <span className="logo-text">Interior Design Studio</span>
+            <span className="logo-text">Design Studio</span>
           </Link>
         </div>
 
